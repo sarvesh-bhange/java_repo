@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=type_of_triangle
+comment1.params=angle_a\ angle_b\ angle_c
+comment1.target=void\ main(short,\ short,\ short)
+numComments=2
